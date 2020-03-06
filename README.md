@@ -22,6 +22,7 @@ Publisher Vytautas Magnus University
 Acknowledgement: 
 
 Project name: Semantika2 
+
 Project code: Nr. 02.3.1-CPVA-V-527-01-0002
 
 This item is for Academic Use and licensed under: ACA_CLARIN-LT_End-User-Licence-Agreement_EN-LT
