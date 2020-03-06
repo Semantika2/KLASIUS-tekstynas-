@@ -1,2 +1,2 @@
-# KLASIUS-tekstynas-
+# KLASIUS (tekstynas)
 KLASIUS (vadovėlių tekstynas)
