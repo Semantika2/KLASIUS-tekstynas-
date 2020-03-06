@@ -1,7 +1,9 @@
 # KLASIUS (tekstynas)
 
 Tekstynas parengtas vykdant projektą Semantika2
+
 Tekstyno užsakovas: Vytauto Didžiojo universitetas
+
 Tekstyno rengėjas: UAB ATEA
 
 Date issued 2019-02-15
