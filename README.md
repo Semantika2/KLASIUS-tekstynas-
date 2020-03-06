@@ -1,4 +1,4 @@
-# KLASIUS (tekstynas)
+# KLASIUS v.1 (tekstynas)
 
 Tekstynas parengtas vykdant projektą Semantika2
 
